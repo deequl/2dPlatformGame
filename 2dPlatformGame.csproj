@@ -237,7 +237,9 @@
   <ItemGroup>
     <Compile Include="Assets\checkGround.cs" />
     <Compile Include="Assets\DrawSceneLine.cs" />
+    <Compile Include="Assets\FallingPlatform.cs" />
     <Compile Include="Assets\movePlatform.cs" />
+    <Compile Include="Assets\onBecameInvisible.cs" />
     <Compile Include="Assets\Player_Controller.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
